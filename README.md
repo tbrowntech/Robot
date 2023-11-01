@@ -1,2 +1,2 @@
 # Robot
-This repository contain my personal robotics project.
+- This repository contains my personal robotics project.
